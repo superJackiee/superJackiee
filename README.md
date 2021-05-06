@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://github.com/superJackiee/superJackiee/blob/main/image/giphy.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/superJackiee/superJackiee/blob/main/image/giphy.gif" width="450" height="270" />
 
 💗 **Main Stack** 💗 
 
