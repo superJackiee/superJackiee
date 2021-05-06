@@ -2,7 +2,7 @@
 <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=superJackiee&show_icons=true&theme=monokai&count_private=true">
 <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=superJackiee&layout=compact&theme=monokai&count_private=true">
 
-💗 **My Loves:**  
+💗 *Main Stack* 💗 
 
 ![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
