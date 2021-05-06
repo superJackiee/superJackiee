@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/superJackiee/superJackiee/raw/master/images/1.gif" style="margin-bottom: 20px;">
+<img align="right" src="https://github.com/superJackiee/superJackiee/raw/master/images/giphy.gif" style="margin-bottom: 20px;">
 
 💗 **Main Stack** 💗 
 
