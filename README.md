@@ -1,5 +1,5 @@
 <h2 align="center">
- Hi, there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Wellcome to my github 🙋‍♂️
+ Hi, there! Wellcome to my github 🙋‍♂️
 </h2> 
 
 <img align="right" alt="GIF" src="https://github.com/superJackiee/superJackiee/blob/main/image/giphy.gif" width="450" height="270" />
